@@ -5,6 +5,10 @@ Fatriya Ibnu Ash shidiqqi <br>
 
 ## ROUTING
 ###  BASIC ROUTING
+use Illuminate\Support\Facades\Route;
+Route::get('/hello', function () {
+ return 'Hello World';
+});
 1. Menanggil Route hello untuk menampilkan pesan 'Hello World' <br> <img src=hello.png> <br>
 2. Menanggil Route world untuk menampilkan pesan 'World' <br> <img src=world.png> <br>
 3. Memanggil Route welcome untuk menampilkan pesan 'Selamat Datang' <br> <img src=welcome.png> <br>

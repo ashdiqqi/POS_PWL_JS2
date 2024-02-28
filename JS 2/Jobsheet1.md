@@ -5,9 +5,9 @@ Fatriya Ibnu Ash shidiqqi <br>
 
 ## ROUTING
 ###  BASIC ROUTING
-1. Menanggil Route hello untuk menampilkan pesan 'Hello World' <img src=hello.png> <br>
-2. Menanggil Route world untuk menampilkan pesan 'World'  <img src=world.png> <br>
-3. Memanggil Route welcome untuk menampilkan pesan 'Selamat Datang'  <img src=welcome.png> <br>
+1. Menanggil Route hello untuk menampilkan pesan 'Hello World' <br> <img src=hello.png> <br>
+2. Menanggil Route world untuk menampilkan pesan 'World' <br> <img src=world.png> <br>
+3. Memanggil Route welcome untuk menampilkan pesan 'Selamat Datang' <br> <img src=welcome.png> <br>
 4. Memanggil Route about untuk menampilkan Nim dan Nama saya <img src=about.png> <br>
 ###  ROUTE PARAMETERS
 1. Menampilkan route user/{name} dengan parameter $name <img src=diqqi.png> <br>

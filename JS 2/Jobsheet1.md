@@ -59,9 +59,15 @@ yang menampilkan nama sesuai dengan nama yang ada di file blade.php yang terleta
 
 
 ## SOAL PRAKTIKUM
-- Halaman Home <img src=home.png> <br>
-- Halaman Products (Food & Beverages) <img src=fnb.png> <br>
-- Halaman Products (Beauty & Health) <img src=beauty.png> <br>
-- Halaman Products (Home Care) <img src=homecare.png> <br>
-- Halaman Products (Baby & Kid) <img src=babykid.png> <br>
-- Halaman User <img src=pengguna.png> <br>
+- Halaman Home
+  <img src=home.png> <br>
+- Halaman Products (Food & Beverages)
+  <img src=fnb.png> <br>
+- Halaman Products (Beauty & Health)
+  <img src=beauty.png> <br>
+- Halaman Products (Home Care)
+  <img src=homecare.png> <br>
+- Halaman Products (Baby & Kid)
+  <img src=babykid.png> <br>
+- Halaman User
+  <img src=pengguna.png> <br>

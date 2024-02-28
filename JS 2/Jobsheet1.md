@@ -1,13 +1,10 @@
-# LAPORAN JOBSHEET 1
+![image](https://github.com/ashdiqqi/POS_PWL_JS2/assets/143858186/7c4c2360-c8f9-4cb4-a34a-eac5f41b3c5e)# LAPORAN JOBSHEET 1
 Fatriya Ibnu Ash shidiqqi <br>
 2F / 13 <br>
 2241720138 <br>
 
 ## ROUTING
 ###  BASIC ROUTING
-Route::get('/world', function () {
-    return 'World';
-   });
 
 1. Menanggil Route hello untuk menampilkan pesan 'Hello World' <br> <img src=hello.png> <br>
 2. Menanggil Route world untuk menampilkan pesan 'World' <br> <img src=world.png> <br>
